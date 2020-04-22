@@ -1,6 +1,5 @@
 ## 1. Print out every number 1-100
-for i in range(100):
-  print(i)
+
 
 ## 2. Print out every number from 50-100
 
