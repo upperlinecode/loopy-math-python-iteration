@@ -1,5 +1,7 @@
 # Loopy Math
 
+[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/loopy-math-python-iteration)](https://repl.it/github/upperlinecode/loopy-math-python-iteration)
+
 ## TL;DR
 
 This lab will give you practice with `for __ in range(__):` and style loops. Open up loops.py, where the challenges are written as python comments. Run the code after each new loop you write to see if your code works as intended.
