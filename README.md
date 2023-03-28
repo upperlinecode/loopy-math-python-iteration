@@ -25,7 +25,7 @@ Loops in python allow us to automate processes that would be tedious and exhaust
 
 Without loops, printing 100 different numbers would take 100 lines of code. With loops, we can do it in 2 lines of code. More impressively, we can bump that number up to 10,000, or even into the millions and billions without having to add extra lines of code.
 
-Open up the loops.py file, and try to complete each of the `for ___ in range(___):` loops described there. 
+Open up the main.py file, and try to complete each of the `for ___ in range(___):` loops described there. 
 
 ## Extra Help
 
